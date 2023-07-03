@@ -2,7 +2,7 @@
 A check-list is a catalog of items/tasks that are recorded for tracking.
 
 I used it for testing the website "Yandex metro map".
-You can see it <a href="https://docs.google.com/spreadsheets/d/1JFKJqY4Jxvw7baMCTuZJ4Zrz9xsj7g1wIWHEp_CDWgw/edit#gid=0">click here</a>.
+You can see it <a href="https://docs.google.com/spreadsheets/d/1JFKJqY4Jxvw7baMCTuZJ4Zrz9xsj7g1wIWHEp_CDWgw/edit?usp=sharing">click here</a>.
 
 Also i've done mind map for this project, <a href="https://drive.google.com/file/d/1ehlodgyznwjzYHiyKtG_qh3_0M_hjpow/view?usp=drive_link"> click here</a>
 
